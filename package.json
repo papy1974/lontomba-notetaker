@@ -1,0 +1,24 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "the project is about writting note , save it, delete it and reset the app from the begin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "papy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/papy1974/lontomba-notetaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/papy1974/lontomba-notetaker/issues"
+  },
+  "homepage": "https://github.com/papy1974/lontomba-notetaker#readme"
+}
