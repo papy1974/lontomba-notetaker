@@ -42,7 +42,7 @@ npm init need to be run from visual studio terminal or git bash repository to fi
 
 Usage
 
-here is  the project link : 
+here is  the project link :  https://papy-lontomba.herokuapp.com/notes
 
 License
 This project is licensed under the MIT - Copyright (c) [2020] [PAPY LONTOMBA]
@@ -58,15 +58,16 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 see the www.source.org file for details
 
 Contributors
-Jasmine:https://github.com/JEpps2020, Jeanine:, and PUTHEARA.
+
 
 drawing papy1974 GitHubLink: https://github.com/papy1974
 
 Tests
+
 Run the project in chrome to make it faster and working. There is currectnly no tests.
 
 contributing
-I give access to other developpers to modified our project if possible. here is the link project: https://jepps2020.github.io/Project_1GWU/. I can be reached by email: papylotomba@yahoo.fr
+I give access to other developpers to modified our project if possible. here is the link project:  https://papy-lontomba.herokuapp.com/notes. I can be reached by email: papylotomba@yahoo.fr
 
 Badges
 (https://img.shields.io/github/languages/top/nielsenjared/badmath)
