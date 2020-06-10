@@ -72,6 +72,8 @@ Run the project in chrome to make it faster and working. There is currectnly no 
 contributing
 I give access to other developpers to modified our project if possible. here is the link project:  https://papy-lontomba.herokuapp.com/notes. I can be reached by email: papylotomba@yahoo.fr
 
+![note](https://user-images.githubusercontent.com/58053159/84224751-51febd00-aaab-11ea-8124-fe81863d8437.png)
+
 Badges
 (https://img.shields.io/github/languages/top/nielsenjared/badmath)
 
