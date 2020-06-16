@@ -83,7 +83,7 @@ function generate() {
   const _sym = "abcdefghijklmnopqrstuvwxyz1234567890";
   var str = "";
   const numChar = 10;
-// concatenate one random character at a time to the string to be returned
+// start a loop to concatenate one random character at a time to the string to be returned
   for (var i = 0; i < numChar; i++) {
     str += _sym[parseInt(Math.random() * _sym.length)];
   }
