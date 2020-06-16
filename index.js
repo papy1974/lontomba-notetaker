@@ -23,7 +23,7 @@ var getNotes = function() {
   });
 };
 
-// A function for saving a note to the db file
+// create a function for saving a note to the db file
 var saveNote = function(note) {
 
   return $.ajax({
