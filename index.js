@@ -77,6 +77,7 @@ var renderActiveNote = function() {
 
 // Random id generator based on code from
 //    https://stackoverflow.com/questions/23327010/how-to-generate-unique-id-with-node-js
+// create function generate 
 function generate() {
   // characters to choose from
   const _sym = "abcdefghijklmnopqrstuvwxyz1234567890";
