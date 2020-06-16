@@ -41,7 +41,7 @@ var updateNote = function(note) {
   });
 };
 
-// A function for deleting a note from the db file
+// create a function for deleting a note from the db file
 var deleteNote = function(id) {
   return $.ajax({
     url: "api/notes/" + id,
