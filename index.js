@@ -203,7 +203,7 @@ var renderNoteList = function(notes) {
   $noteList.empty();
   var noteListItems = [];
 
-// for each note, build the html li and append it.
+// for each note, create the html li and append it.
   for (var i = 0; i < notes.length; i++) {
     var note = notes[i];
 
