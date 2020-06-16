@@ -15,6 +15,7 @@ var activeNote = {};
 var editMode = false; 
 
 // A function for getting all notes from the db file
+// create function getNotes
 var getNotes = function() {
   return $.ajax({
     url: "/api/notes",  // url and method must match path & function in notetaker.js
