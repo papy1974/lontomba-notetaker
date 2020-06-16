@@ -1,4 +1,4 @@
-// html elements that need to be referenced
+// create  html elements and variable that need to be referenced
 var $noteTitle = $(".note-title");   // title of note
 var $noteText = $(".note-textarea");  // text of note
 var $saveNoteBtn = $(".save-note");  // save note button
