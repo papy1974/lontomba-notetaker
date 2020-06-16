@@ -33,7 +33,7 @@ var saveNote = function(note) {
   });
 };
 
-// A function for updating a note to the db file
+// create a function for updating a note to the db file
 var updateNote = function(note) {
   return deleteNote(note.id)
   .then(function() {
