@@ -49,7 +49,7 @@ var deleteNote = function(id) {
   });
 };
 
-// If there is an activeNote, display it, otherwise render empty inputs
+// If there is an activeNote, display activeNote, otherwise render empty inputs
 var renderActiveNote = function() {
 
   $saveNoteBtn.hide();  // only show save button when changes have been made to save
