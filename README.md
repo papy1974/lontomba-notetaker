@@ -1,26 +1,11 @@
+
 Title
 
-notetaker
+Notetaker
 
-Installation
+Languages and Tools used:
 
-description
-
-Instructions
-
-Usage
-
-License
-
-Contributors
-
-badges
-
-Author
-
-contributing
-
-Tests
+html,JavaScript,CSS,jQuery,Bootstrap,Git
 
 Installation
 
